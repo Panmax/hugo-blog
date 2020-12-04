@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "anatole"
+
+[params]
+title = "I'm Panmax"
+author = "Panmax"
+description = "Call me Panmax"
+profilePicture = "images/1.png"
