@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Jane - A super concise theme for Hugo</title>
+    <link>https://hugo.jiapan.me/categories/</link>
+    <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>Panmax</copyright>
+    <lastBuildDate>Sat, 20 Feb 2021 17:49:13 +0000</lastBuildDate><atom:link href="https://hugo.jiapan.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>index</title>
+      <link>https://hugo.jiapan.me/categories/index/</link>
+      <pubDate>Sat, 20 Feb 2021 17:49:13 +0000</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://hugo.jiapan.me/categories/shortcodes/</link>
+      <pubDate>Sat, 20 Feb 2021 17:49:13 +0000</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>https://hugo.jiapan.me/categories/docs/</link>
+      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://hugo.jiapan.me/categories/math/</link>
+      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://hugo.jiapan.me/categories/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://hugo.jiapan.me/categories/test/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://hugo.jiapan.me/categories/development/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://hugo.jiapan.me/categories/golang/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://hugo.jiapan.me/categories/syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>https://hugo.jiapan.me/categories/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
